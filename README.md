@@ -1,11 +1,3 @@
--Hey, I’m @Luigyboy 16 years old Colombian boy.
-
--I’m interested in Blockchain and backend.
-
--I’m currently learning python.
-
--I’m looking to collaborate on nothing specifically.
-
 -How to reach me luis.alejo.rg@gmail.com
 
 <!---
